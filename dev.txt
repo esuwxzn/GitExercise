@@ -1,1 +1,4 @@
-learn rebase
+dev
+Try "git push origin" dev without local branch
+Try "git push" 
+learn rebase from other place
